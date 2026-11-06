@@ -35,3 +35,6 @@ filebeat-*
 .vscode/
 *.swp
 *.swo
+
+.env
+
